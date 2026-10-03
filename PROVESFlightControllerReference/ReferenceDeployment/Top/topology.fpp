@@ -44,6 +44,7 @@ module ReferenceDeployment {
     instance gpioPayloadPowerLS
     instance gpioPayloadBatteryLS
     instance watchdog
+    instance otaBeacon
     instance rtcManager
     instance detumbleManager
     instance imuManager

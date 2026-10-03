@@ -326,5 +326,6 @@ telemetry packets ReferenceDeploymentPackets {
   watchdog.WatchdogTransitions
 
   CdhCore.events.EventsDropped
+  otaBeacon.LastPing
 
 }
