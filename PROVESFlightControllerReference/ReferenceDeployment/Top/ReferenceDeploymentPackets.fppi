@@ -52,6 +52,8 @@ telemetry packets ReferenceDeploymentPackets {
     lora.ChannelRssi
     lora.TransmitsDeferred
     lora.TransmitsForced
+    otaMarker.LastMark
+    otaMarker.MarkCount
 #    sband.LastRssi
 #    sband.LastSnr
   }

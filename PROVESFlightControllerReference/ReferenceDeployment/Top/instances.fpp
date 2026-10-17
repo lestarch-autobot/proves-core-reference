@@ -95,6 +95,8 @@ module ReferenceDeployment {
 
   instance bootloaderTrigger: Components.BootloaderTrigger base id 0x1001A000
 
+  instance otaMarker: Components.OtaMarker base id 0x1007A000
+
   instance burnwire: Components.Burnwire base id 0x1001B000
 
   instance gpioBurnwire0: Zephyr.ZephyrGpioDriver base id 0x1001C000
