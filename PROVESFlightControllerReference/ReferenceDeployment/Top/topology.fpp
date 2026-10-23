@@ -48,6 +48,7 @@ module ReferenceDeployment {
     instance detumbleManager
     instance imuManager
     instance bootloaderTrigger
+    instance echo
     #instance comDelaySband
     instance downlinkDelay
     instance telemetryDelay
